@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#Hi kannst du das sehen?
 """
 Created on Wed May  1 10:17:44 2024
 
@@ -7,6 +8,3 @@ Created on Wed May  1 10:17:44 2024
 
 def yes():
     print("JA")
-
-def no():
-    
